@@ -1,0 +1,10 @@
+
+
+
+Database : Firebase
+Hosted : Firebase
+
+Firebase Account Details,
+Login ID : protectedclasslibrary@gmail.com
+Password : class@1010
+Link : https://library-e9a50.firebaseapp.com
